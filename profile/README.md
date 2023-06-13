@@ -4,6 +4,8 @@
 
 Greetings, dear subjects! I am Princess Pluto, the celestial sovereign of this captivating gaming universe. I command the realms of codes, quests, and epic adventures. Pay your respects to your interstellar princess and join me as we conquer galaxies, one game at a time.
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PwnPrincessPluto&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Pluto's GitHub stats](https://github-readme-stats.vercel.app/api?username=PwnPrincessPluto&show_icons=true&theme=radical)
 
 ---
@@ -31,3 +33,5 @@ To learn more about my kingdom, and to join my league of loyal subjects, visit m
 💬 For inquiries, collaborations, or to challenge your princess to a duel (you dare?), send a raven or drop me an [email](mailto:pwnprincesspluto@gmail.com).
 
 Long live the gaming kingdom! 👑🎮🌌
+
+![Counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPwnPrincessPluto1212%2Fhit-counter)
