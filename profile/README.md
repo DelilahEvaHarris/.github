@@ -16,7 +16,7 @@ My royal decree extends to the domains of Twitch and YouTube where I rule with a
 [![Twitch Status](https://img.shields.io/twitch/status/pwnprincesspluto?style=social)](https://www.twitch.tv/pwnprincesspluto)
 
 🚀 YouTube: 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/@PWNPrincessPluto?style=social)](https://www.youtube.com/@PWNPrincessPluto/about)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/@PWNPrincessPluto?style=social)](https://www.youtube.com/@PWNPrincessPluto)
 
 ---
 
