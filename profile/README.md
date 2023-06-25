@@ -26,7 +26,7 @@ To learn more about my kingdom, and to join my league of loyal subjects, visit m
 
 ---
 
-💬 For inquiries, collaborations, or to challenge your princess to a duel (you dare?), send a raven or drop me an [email](mailto:pwnprincesspluto@gmail.com).
+💬 For inquiries, collaborations, or to challenge your princess to a duel, send a raven or drop me an [email](mailto:pwnprincesspluto@gmail.com).
 
 Long live the gaming kingdom! 👑🎮🌌
 
